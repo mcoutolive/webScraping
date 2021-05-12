@@ -1,2 +1,2 @@
 # webScraping
-Simples exemplo de codigo de webScraping.
+Simples exemplo de codigo de webscraping.
